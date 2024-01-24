@@ -5,6 +5,7 @@ How to highlight code line-by-line in slides: https://github.com/sta199-s24/sta1
 
 ## Data Viz Course
 https://github.com/vizdata-s24/vizdata-s24
+
 https://vizdata.org/
 
 
